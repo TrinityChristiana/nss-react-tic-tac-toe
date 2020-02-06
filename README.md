@@ -6,7 +6,8 @@ Date Created: 02/06/20 | Date Modified: 02/06/20
 
 *This assignment is an exercise: (Directions here)[directions.md]*
 
-<!-- Preview assignment here: https://trinity-alpha-omega.netlify.com/ -->
+Preview assignment here: https://trinity-tic-tac-toe.netlify.com/
+
 ***
 *This assignment uses React: (Directions here)[directions.md]*
 ![](screenshot.png)
