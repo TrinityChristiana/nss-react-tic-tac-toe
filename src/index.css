@@ -1,0 +1,21 @@
+.bordered-square {
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    font-size: 200px;
+    text-align: center;
+
+}
+
+.row {
+    display: flex;
+
+}
+
+.red-font {
+    color: red;
+}
+
+.blue-font {
+    color: blue
+}

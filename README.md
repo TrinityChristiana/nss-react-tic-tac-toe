@@ -8,6 +8,6 @@ Date Created: 02/06/20 | Date Modified: 02/06/20
 
 <!-- Preview assignment here: https://trinity-alpha-omega.netlify.com/ -->
 ***
-
+*This assignment uses React: (Directions here)[directions.md]*
 ![](screenshot.png)
 
