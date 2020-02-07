@@ -1,21 +1,28 @@
 .bordered-square {
-    border: 1px solid black;
-    height: 200px;
+    display: flex;
+	border: 1px solid black;
+	height: 200px;
     width: 200px;
-    font-size: 200px;
-    text-align: center;
+}
 
+.value-text {
+    font-size: 200px;
+
+	margin: auto;
 }
 
 .row {
-    display: flex;
-
+	display: flex;
 }
 
 .red-font {
-    color: red;
+	color: red;
 }
 
 .blue-font {
-    color: blue
+	color: blue;
+}
+
+.modal-text {
+    font-size: 43px;
 }
