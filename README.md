@@ -6,7 +6,7 @@ Date Created: 02/06/20 | Date Modified: 02/06/20
 
 *This assignment is an exercise: [Directions here](directions.md)*
 
-*This assignment uses React: [Directions on how to run app](directions.md)*
+*This assignment uses React: [Directions on how to run app](run-directions.md)*
 
 Preview assignment here: https://trinity-tic-tac-toe.netlify.com/
 
