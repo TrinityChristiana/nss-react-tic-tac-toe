@@ -1,12 +1,12 @@
 .bordered-square {
-    display: flex;
+	display: flex;
 	border: 1px solid black;
 	height: 200px;
-    width: 200px;
+	width: 200px;
 }
 
 .value-text {
-    font-size: 200px;
+	font-size: 200px;
 
 	margin: auto;
 }
@@ -24,5 +24,10 @@
 }
 
 .modal-text {
-    font-size: 43px;
+	font-size: 43px;
+}
+
+.game-container {
+    display: flex;
+    justify-content: center;
 }

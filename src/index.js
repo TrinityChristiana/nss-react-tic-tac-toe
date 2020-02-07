@@ -41,7 +41,7 @@ class GameBoard extends React.Component {
 
 	render() {
 		return (
-			<div>
+			<div className="board">
 				<div className='row'>
 					{this.renderSquare(0)}
 					{this.renderSquare(1)}
@@ -188,7 +188,7 @@ class GameContainer extends React.Component {
 
 	render() {
 		return (
-			<div>
+			<div className="game-container">
 				<ModalMini
 					show={this.state.open}
 					winner={this.state.winner}
