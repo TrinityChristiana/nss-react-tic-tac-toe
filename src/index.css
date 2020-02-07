@@ -1,12 +1,12 @@
 .bordered-square {
 	display: flex;
 	border: 1px solid black;
-	height: 200px;
-	width: 200px;
+	height: 115px;
+	width: 115px;
 }
 
 .value-text {
-	font-size: 200px;
+	font-size: 115px;
 
 	margin: auto;
 }
